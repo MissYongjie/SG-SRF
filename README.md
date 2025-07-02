@@ -40,9 +40,8 @@ SG-SRF-main/
 ├── GC/                                  # Graph-cut / MRF-related modules
 ├── GMMMSP-superpixel-master/           # GMM superpixel code (for segmentation)
 ├── datasets/                            # Example dataset(s) (Dataset#1 included)
-├── SG_SRF.png                           # Method flowchart
-├── LICENSE                              # MIT License
-└── README.md                            # Project description
+SG_SRF.png                              # Method flowchart
+README.md                               # Project description
 ```
 
 ---
