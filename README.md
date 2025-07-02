@@ -42,3 +42,25 @@ SG-SRF-main/
 ├── datasets/                            # Example dataset(s) (Dataset#1 included)
 ├── LICENSE                              # MIT License
 └── README.md                            # Project description
+
+## 🙏 Acknowledgements
+This work is an extension and improvement of the Structural Regression Fusion (SRF) framework proposed by Yuli Sun et al..
+For more details, please refer to the original SRF repository:
+
+🔗 https://github.com/yulisun/SRF
+
+
+If you find this code useful, please cite these papers:
+@article{zheng2025scribble,
+  title={Scribble-Guided Structural Regression Fusion for Multimodal Remote Sensing Change Detection},
+  author={Zheng, Yongjie and Liu, Sicong and Bruzzone, Lorenzo},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2025}
+}
+@article{SunStructural2023,
+  author={Sun, Yuli and Lei, Lin and Liu, Li and Kuang, Gangyao},
+  title={Structural Regression Fusion for Unsupervised Multimodal Change Detection},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2023}
+}
+
