@@ -20,7 +20,7 @@ This is the official MATLAB implementation of our IEEE GRSL paper:
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
 - ✔️ Weakly-supervised change detection using sparse scribbles
 - ✔️ Works for both multimodal (SAR-Optical) and homogeneous image pairs
@@ -29,7 +29,7 @@ This is the official MATLAB implementation of our IEEE GRSL paper:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 SG-SRF-main/
@@ -43,14 +43,21 @@ SG-SRF-main/
 ├── LICENSE                              # MIT License
 └── README.md                            # Project description
 
-## 🙏 Acknowledgements
+---
+
+## Acknowledgements
+
 This work is an extension and improvement of the Structural Regression Fusion (SRF) framework proposed by Yuli Sun et al..
 For more details, please refer to the original SRF repository:
 
 🔗 https://github.com/yulisun/SRF
 
+---
+
+## Citation
 
 If you find this code useful, please cite these papers:
+
 @article{zheng2025scribble,
   title={Scribble-Guided Structural Regression Fusion for Multimodal Remote Sensing Change Detection},
   author={Zheng, Yongjie and Liu, Sicong and Bruzzone, Lorenzo},
