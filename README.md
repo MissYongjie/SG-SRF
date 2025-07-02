@@ -31,7 +31,6 @@ This is the official MATLAB implementation of our IEEE GRSL paper:
 
 ## Project Structure
 
-```text
 SG-SRF-main/
 ├── SG_SRF_demo.m                        # Main experiment script (full pipeline)
 ├── Abs_scribbles_SG_SRF_demo.m         # Ablation study: different scribble sparsity
@@ -43,11 +42,13 @@ SG-SRF-main/
 ├── LICENSE                              # MIT License
 └── README.md                            # Project description
 
+
+
 ---
 
 ## Acknowledgements
 
-This work is an extension and improvement of the Structural Regression Fusion (SRF) framework proposed by Yuli Sun et al..
+This work is an extension and improvement of the Structural Regression Fusion (SRF) framework proposed by Yuli Sun et al..  
 For more details, please refer to the original SRF repository:
 
 🔗 https://github.com/yulisun/SRF
@@ -58,16 +59,19 @@ For more details, please refer to the original SRF repository:
 
 If you find this code useful, please cite these papers:
 
+```bibtex
 @article{zheng2025scribble,
   title={Scribble-Guided Structural Regression Fusion for Multimodal Remote Sensing Change Detection},
   author={Zheng, Yongjie and Liu, Sicong and Bruzzone, Lorenzo},
   journal={IEEE Geoscience and Remote Sensing Letters},
   year={2025}
 }
+
 @article{SunStructural2023,
   author={Sun, Yuli and Lei, Lin and Liu, Li and Kuang, Gangyao},
   title={Structural Regression Fusion for Unsupervised Multimodal Change Detection},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2023}
 }
+
 
