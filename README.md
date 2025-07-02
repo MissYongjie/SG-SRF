@@ -13,6 +13,14 @@ This is the official MATLAB implementation of our IEEE GRSL paper:
 
 ---
 
+<p align="center">
+  <img src="SG_SRF.png" width="750"/>
+</p>
+
+<p align="center"><b>Figure:</b> Overview of the proposed SG-SRF framework.</p>
+
+---
+
 ## 🌟 Highlights
 
 - ✔️ Weakly-supervised change detection using sparse scribbles
