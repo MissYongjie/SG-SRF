@@ -31,6 +31,7 @@ This is the official MATLAB implementation of our IEEE GRSL paper:
 
 ## Project Structure
 
+```text
 SG-SRF-main/
 ├── SG_SRF_demo.m                        # Main experiment script (full pipeline)
 ├── Abs_scribbles_SG_SRF_demo.m         # Ablation study: different scribble sparsity
@@ -39,10 +40,10 @@ SG-SRF-main/
 ├── GC/                                  # Graph-cut / MRF-related modules
 ├── GMMMSP-superpixel-master/           # GMM superpixel code (for segmentation)
 ├── datasets/                            # Example dataset(s) (Dataset#1 included)
+├── SG_SRF.png                           # Method flowchart
 ├── LICENSE                              # MIT License
 └── README.md                            # Project description
-
-
+```
 
 ---
 
